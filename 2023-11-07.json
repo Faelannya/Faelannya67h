@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Moran",
+  "age": 45,
+  "address": {
+    "street": "Udipo Place",
+    "city": "Uloaveni",
+    "state": "ME",
+    "zip": "95418"
+  },
+  "contact": {
+    "phone": "(631) 951-5888",
+    "servicePhone": "800437142"
+  },
+  "birthday": "1963-09-08T07:51:20.144Z",
+  "ip": "219.32.153.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Olijaav kofmi vuciw sovna edhejo fuvgupbeb suw fomrina jojokoat uji lekwid lefucko jocvuw wol zivo. Hu vijku piveh ilsanmiv erucihu fiobe cog mah vejep sevuhpo wew de ani jucmerure. Jizmi dobboru wagitmot odpi viwvuluk caini fescatco uvu ehiugzo cujwa fu tib hec hagcu pizer.",
+    "bio": "Vozkuh juacu ipjoro burkoti voref nitra japufoz buh dej kajtup vogiwe giz juwar azom ma muifacuk pemva. Ji ho nij se feguhu ponzehva mibaduti se ijujeb obevod juf wozeztif fehatowah kobzi amahos. Sopec fatpepji gu fomuine hal wulatiifo on efosotab asujifkap uguwum vuhemseg do zus owi ebfiwub. Ev lag cep giz cuvteses mavlih na ipurudte pur sed veswac he pecduh irone datu esonper fu. Da puro lum kewodehu zinne rumwu tavcuhva pejimi azzazob ebeze lomegmo hedezec fo. Vib mifwoher zot zimkem mothobteh fogubo iptaprez fidisez zivogawu salanuuh bonaub dubo."
+  },
+  "apiKey": "dd19d0b679a58f63c25f997e0226246c37afd21a080d60f85bbc565dacc34f31",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
