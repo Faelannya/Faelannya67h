@@ -1,0 +1,26 @@
+{
+  "name": "Melvin Sharp",
+  "age": 21,
+  "address": {
+    "street": "Ujre Drive",
+    "city": "Josvonluc",
+    "state": "MN",
+    "zip": "13986"
+  },
+  "contact": {
+    "phone": "(910) 425-1756",
+    "servicePhone": "800731722"
+  },
+  "birthday": "1970-08-18T01:33:46.583Z",
+  "ip": "142.87.191.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Difo zar am sen jajese ehuapu eso piojgo sul dijkosu ed palcun iwugucepa vutuh meraato baruvdu pivru. Co lahnejed peuhu cekul vozinem pifgu zo vojmu codkegga jorsas opvit oz tokilisa. Madisok ilobu vaco bahag gufgezit vu ipolopu let lag ruwuke oze noetlut nolaz mos zeoju wices vuwug.",
+    "bio": "Tuhrenal tut wapu bawenoc ce idimok zeksiw nokdimcu rahtow juw tid sacufhaj ba fuz jifoja ebvu miwece polzewoc. Ukigbug dahcaeg conuzdu vifcuwi getom niido ma niw tuwijdo givelpob vupcolne so. Puziuf un wow nab unziv minonla joz dodsawu obalodjag supjufcif vezfola cud nuewzud siravnas go."
+  },
+  "apiKey": "ddb0838362bb3ce16d64183172f2ed3eeae3775f2e6a8748d02f2240e3703189",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
