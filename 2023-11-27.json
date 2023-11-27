@@ -1,0 +1,26 @@
+{
+  "name": "Cory Martinez",
+  "age": 25,
+  "address": {
+    "street": "Akpaj Path",
+    "city": "Kusdustud",
+    "state": "ME",
+    "zip": "53963"
+  },
+  "contact": {
+    "phone": "(910) 675-1836",
+    "servicePhone": "800828226"
+  },
+  "birthday": "1962-10-08T17:03:13.002Z",
+  "ip": "180.167.79.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Mohgeho cebih kevjodo gi gemub fejucora tovfud kun zar ucoovouv ajurve cufal. Henvu kotuka zorjufas rembo woobo lutvi hafuja keju pac peggikod niku wihit ifi utlamva vaz deobokiz ga. Hu vum ruwpivnuj nel jawpakoz zakizi dobpecef galsiwgi pi ro wu juzfec sowmodtu derenga.",
+    "bio": "Ag sekek zavo vozunrih zuobifad zuak wojepur odocifric ic ehohelhig ori cucotrum dujunis cohma. Liuviufo mu ni lubu lifcu cu bujbu gew goci uki jo fivo kevuga hobewo senajoz. Acib curetu zuw cuphopjun aro nu zis mutzeboz forni juile sefsev ud gune cop ak hegu."
+  },
+  "apiKey": "fc2155baaad922f5a7954e9e3920a8feeacc70a73ea6eb9f11ffbc19b5d35aae",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
