@@ -1,0 +1,26 @@
+{
+  "name": "Lura Parsons",
+  "age": 19,
+  "address": {
+    "street": "Ikolek Parkway",
+    "city": "Poetarin",
+    "state": "FL",
+    "zip": "68079"
+  },
+  "contact": {
+    "phone": "(818) 284-7500",
+    "servicePhone": "800335921"
+  },
+  "birthday": "1987-11-29T21:14:37.835Z",
+  "ip": "12.71.98.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Kobiomu ciktev upiwaf ajeijgof faon hujecune du kiv pale zoogkap jamrim oz wumgidpi vudba fioza. Riguc ju jeah keuwipem vugafmi jodedtof anmop omezof fohetge ze dooju ejce migmiavo er hipam. Zad sen vuabifa odidapib ikit lilrohsi ajuvevu la lora bekzu meoja ef hiszarej ifo gu evofego vewobizif. Ka ijirawop omeubag vupcir iku pobve iv loneuv bi ajzuhep ka nuvzuva. Adaza si duzicuso rej wos supica pulijuzi muubofi ugeic vessulvo kuvul opol wufa bespad ofa bit. Du zidud oboret wuviw da loekopov assil febidfig giwuhcus vikemzi kuvuh wotu rib hem.",
+    "bio": "Lobudfuf zatiur mo ji oca pebunal daw fiicarap cogcih ebbetaw sutiv zam muizcu zidmuz nojvos mercekpin. Teef zapsaowu winwo zotfapav sujbemo canzilnuh fom vere alfarzo vajsu fircet zid eru kevopep bitid sidmestil vi duomepog. Ruut fepuj sepnugo pujahulub barikdu jomulo hezop jirdejri redbic jibip hozge povuruor rapojpog uju viv nehzetjav."
+  },
+  "apiKey": "c04dcfce36085d554d00511c5c5f1e208fa4a01fa3b5264582d02f8768a839a8",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
