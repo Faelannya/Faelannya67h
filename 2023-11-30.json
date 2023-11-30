@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Montgomery",
+  "age": 20,
+  "address": {
+    "street": "Toco Grove",
+    "city": "Felonus",
+    "state": "SC",
+    "zip": "72548"
+  },
+  "contact": {
+    "phone": "(232) 661-4945",
+    "servicePhone": "800978155"
+  },
+  "birthday": "1986-01-08T04:02:17.197Z",
+  "ip": "100.193.36.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Soj mug femti ipinofug ebaumo rol ca ofhid sabveteti tuvsadi erfarde mutuw bajuju. Belkakib iw mamini tiim kelnatum ko ke domugzuj jo wik fuokanu doddaz. Jo ivukufud omtour majil degarpeh bemge rudtev buobja huno bojkes wemopfa iv wu rachan cimanhof juraz. Samnikni foh tulga ikionuoc wakof nufifo uwa fu penamo nerane zi pudogej ne hodja.",
+    "bio": "La emzawba atimiwed zaun oduburop ezfa ahpa arekbud cissek coticgu ahavu vib dezow. Li pipi viw un hisko jogda fo rehvo wifzahu zo zuba tir gocwuigo minwues. Feola fitgu jugiz ut nudafeh legnoh vugofa zu cudawu fe nelidnog tur ke gehahe eci akbiwjo cipmerel."
+  },
+  "apiKey": "387c0543fd10cfc893518472321cd8427fdbe847e7a9003acc0f8d914f94ca1f",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
