@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Bryan",
+  "age": 45,
+  "address": {
+    "street": "Doiv Road",
+    "city": "Motgeuli",
+    "state": "WV",
+    "zip": "03975"
+  },
+  "contact": {
+    "phone": "(311) 440-7215",
+    "servicePhone": "800584477"
+  },
+  "birthday": "1988-02-21T11:30:32.349Z",
+  "ip": "22.119.59.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Coneol lupog vem efi kenhasiv banunudol zihwez ficu puvpiano fillemra gi iruza. Kul upulip oztezuc vuh nuvhe cu vatnejsa mafa eb wivute zofafhi wairo lo lacuni kah. Najo tis zad nezeskon ijoica vew ra semisa luvuc figejan he mu rer ot katu ibaboto joal. Tohul ji zigivim sedo mij dan gove bovva uj pipevre civbor nonju lud vufupaeba.",
+    "bio": "Ubzafub docgucup vufkug ispagbep wadive festivrow be rorav vob gupu iheluh lawmi takseb ewe jepvuvod wunigbod ahmo mun. Uwokej no cemajavi inoji vojago gewaw targepu taw bejioz cevhe hegkiro ojuopu hep wiaducab esiim pi vukza. Lokoj cagu napzom je tenove rugraef wamreg ritow ju ti hivhomro udelidzud viab cuhgonzij taefe ru sobboli sodapuv. Biva agta bab mahuwrar juptod be fipepi sehhavi bishac fimroera zerpudal ottonog pi ber. Mukmi wojar kehuruvi kipu rojemik atooro uk ronfagli ewo ohiosuru af tuj."
+  },
+  "apiKey": "7120a7c1578d13b23b554efd90d225cbab256b109988f7a298cbba5e0769d9cc",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
