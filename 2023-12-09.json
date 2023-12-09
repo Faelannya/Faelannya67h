@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Adams",
+  "age": 60,
+  "address": {
+    "street": "Foheb Place",
+    "city": "Zuguze",
+    "state": "VA",
+    "zip": "16810"
+  },
+  "contact": {
+    "phone": "(388) 523-9334",
+    "servicePhone": "800548393"
+  },
+  "birthday": "1996-05-09T13:11:30.118Z",
+  "ip": "162.72.55.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Vemav wo lan re zebkiiw wobsu kegcen lofu ku huczaddud inifo pivuwu okco ococe kebev foliv tap tuzzef. Pedvaf kipoj dodsu ohupasiwu ore la tok pijavur da kuk upvag zuwa oja cuzurawi camucpaz sabhukbo enovem variot. Gupec ho waj bi ci bihas fape kan pek ciwin fo del oludi. Lew ibi poz unpahe gagugrom wapo ehoce jigu libegwoz cildo afneka guz rivwekda hek naze samasmic hikedhur nutkiri. Geckaaw pozli ta sawih vez kelne hamu haunukap cisho jak ra ucako. Imi tutih nan das vifdura go buczok du zahobmac fecoz nijca puton un zertemro haf bitikadev. Mo juzatomif bi vu puz ceocagi pekuw paj he govkoke nu calatul kejus.",
+    "bio": "Goki kohana piwusoh ini dezej da ekelogi kefud pefopob kud hu rizor jobujloh. Vu si joda ha nafitbil sourvo lana lu be kuwli ojatip ki gesofum cunvowab ocvi. Ciwwe ji amfawuwi bujuj vuhaela ziolodo ihjadwo fumbuduv narob tip te pah aktetfe se fat jalmul beh."
+  },
+  "apiKey": "67fa1f5193d1ba27fe77559fba60a9a2cc83842431adbfe35aea8545dab66bf2",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
