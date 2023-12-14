@@ -1,0 +1,26 @@
+{
+  "name": "Nell Fowler",
+  "age": 22,
+  "address": {
+    "street": "Tias Road",
+    "city": "Gazciha",
+    "state": "TN",
+    "zip": "46094"
+  },
+  "contact": {
+    "phone": "(277) 969-8885",
+    "servicePhone": "800491498"
+  },
+  "birthday": "1994-09-15T20:42:22.504Z",
+  "ip": "205.46.72.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Omilam suadizi ofidewma samgezna narugoz mujkozabi likme ahowaz micpejgu camdubut gomaufo hub tihpav jovan hituchi pi. Vok ikdu ribnij ebwe kibo gednul ecokouno hihvuz sev zizmef beidben canehiw ofo. Esiavvog tifwi dovipok kobut abikezti jemogaj kig hubne gu buasive tiptefve momoma joicaes raj.",
+    "bio": "Geg munfoab fahar ociec cof luhpof iz giz esma naj dew zobcoc ahronu mukaro. Aza orocur pimjivot zuniif sawep atazas kaokutof ma pauc coadoje releno fuz kizecurek co. Emodesehi haklad luune tawdik falima himromog zes kigoko mugma iworze ro vug. Pefnaz nab jo vecsen top rin hagra moero mohjeabu fug volwotu ta tuwav."
+  },
+  "apiKey": "ed45cb0410c4680181e6e26a5ec3a0b94af61d22867b1492bc8b7450921c20d5",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
