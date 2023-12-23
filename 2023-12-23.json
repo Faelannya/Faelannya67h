@@ -1,0 +1,26 @@
+{
+  "name": "Ann Waters",
+  "age": 51,
+  "address": {
+    "street": "Juna Circle",
+    "city": "Runawato",
+    "state": "WV",
+    "zip": "22910"
+  },
+  "contact": {
+    "phone": "(657) 824-5333",
+    "servicePhone": "800814913"
+  },
+  "birthday": "2002-01-08T18:51:40.591Z",
+  "ip": "163.233.212.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Jojop olha pecjecuw zelij jid sep vuoje pupu ol liapudat hubvi imbazbo ze buinsun daduppu. Pudjurmal ko dec ruun sicdim meb kokodobu davsuag duguk eno ujsibcaj le. Tumkazog fivlijpuz luh lefep kukiboga fufu lahu ajien koupi fazas usi ec. Dubi vikod povjotob ena on vehakfop cipkofkec jiw kuju ifil ho godefmod warkedgi koce.",
+    "bio": "Saus ginojlu fa va bute ujval cuge rusato otpi agucohkat ofalah wawlulope feenoto vuw ronjes dotuh sowet. Nubned pih hifpa wa kifda pewesir ejaluf kazsebo vucorra befoavo fiasu wurik epate jodpihof ruupaba ru. Dem ce sezocke enaidbof buuzu gogfi warbiv fuk awa likile piz akamej jeno fi ivu."
+  },
+  "apiKey": "e0a4b0680a68ac21d56e303b2f4f22ed1143154cad86e3b66e500f6a5dbae1a3",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
