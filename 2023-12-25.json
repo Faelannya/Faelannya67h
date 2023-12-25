@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Dean",
+  "age": 25,
+  "address": {
+    "street": "Deimo Place",
+    "city": "Cumacpu",
+    "state": "DE",
+    "zip": "23438"
+  },
+  "contact": {
+    "phone": "(319) 366-3369",
+    "servicePhone": "800712996"
+  },
+  "birthday": "1959-12-28T16:16:45.571Z",
+  "ip": "56.140.132.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Muogzog hituf pu vilrori ta lovozbu cioj ihubmo zitafva rene jopursa uhu. Ipvalhi gelaac uv cijriiw ozu risuam wadducir mes cafku gebozen uczar tu awtuv ag. Virumis kabolfo nuntiscap do sezafba vafuki zo lohgulgi opoti lozabi rufer teblev jupgowod caiw pa apeimonan ivevijwul. Ivira navipuk civecuw feb piw joc do gaj fifohin zidmi oc eho lok oluelwi ru.",
+    "bio": "Igcecbu iteh moac fewucivo eso madgumsi couj acbaril bivteneno ahaepo cah zol kuhof jirunpic woegpun ukufooz. Loztaji uwa cevos celpacij dehapu sauz ja zajme jun gioh tanauki hej afsew. Mutese copa kap goh ohe buhemade ijuklu ta futsum bubo zufikla behgevlak ez."
+  },
+  "apiKey": "cc9c6c15a582b3458ceef8272b8aa8c98db96abc7a6c39ca4de59929f68dcaf2",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
