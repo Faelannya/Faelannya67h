@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Allen",
+  "age": 57,
+  "address": {
+    "street": "Vifek Turnpike",
+    "city": "Oltupi",
+    "state": "MI",
+    "zip": "06128"
+  },
+  "contact": {
+    "phone": "(280) 396-1704",
+    "servicePhone": "800874443"
+  },
+  "birthday": "1984-04-20T03:03:49.393Z",
+  "ip": "33.199.110.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Nawiuma wen me zeba tofzo jodeh dozuvici bopjec nukjozra sissozja ben migubek. We bi lijso muhucwuh cu des lerrob zabwoneje hibge wu difadet atojazhe besipti kawlajtuj rahvu. Lube fozkij fi kemu ceclirim wikrijas fuho si rihuwa mivo of firolisa gowal. Dubvuh nuaj fe juur hu siggob iztehlan alged ji naep gohla awjukem ovfaite.",
+    "bio": "Jaivvij kan lulgipuh pob rapbotet itifofsin bu ci sotwerel ujliwko ozolij sinigoli ed razuvfun be. Radgil sangeboda af boinahiw wilew kuga codbeser ti jap egak zof elodewef gi al kagmific jom jebic. Befin vusfimog wota valimwo ora nup ne besid bit kocatbi kaw os fenle zu."
+  },
+  "apiKey": "95590e23ab27ca3904e454b0974e8598496fea1c12f56b9e2d84f00584a0b351",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
