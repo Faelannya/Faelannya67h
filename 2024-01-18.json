@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Casey",
+  "age": 59,
+  "address": {
+    "street": "Bawzur Path",
+    "city": "Hanceibu",
+    "state": "CO",
+    "zip": "13473"
+  },
+  "contact": {
+    "phone": "(567) 933-8897",
+    "servicePhone": "800982819"
+  },
+  "birthday": "1992-08-17T06:12:18.938Z",
+  "ip": "18.255.2.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoosijoc aza tekpuse ijieno buf isubub uhuov lu jegihuw mufwej pog fizakbac vawjuw. Oh tevontuh ive uhenip nim fe oz uvjumlec tokosag reomwe puzdub luhu buviv ujjuvid rimozute vohrodza. Melus juogeru ve merjetub rifnim sewhejil ribwofu jitef avuhuz ficcuzo ludfu do azhusuha jetnilbe hoh ivize now. Udjespa nitichez zu wi nohozwo keezi pu misu micuhi ojoteel ifveg ja vi ce.",
+    "bio": "Jatcocig fuje te cefazfa row guibeic cumosdan toiza otlafus bi abme lezwa gu. Riolta mu muk ej esi udiz cavfete owede ju corruila ebtole caf tet mezmel na vemjazjuz. Gikaju pom julje vavfogej virzose ajnej sagoc wumufce zas asfofiv uzi ceso laaveci motmicba hu."
+  },
+  "apiKey": "0236f5d0c75ae7930478d46d0aa3e503fe2f8581fee9ff6a4ff58da1cfac4997",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
