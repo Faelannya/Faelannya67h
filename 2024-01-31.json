@@ -1,0 +1,26 @@
+{
+  "name": "Janie Hansen",
+  "age": 19,
+  "address": {
+    "street": "Roni Street",
+    "city": "Fearohun",
+    "state": "CA",
+    "zip": "84122"
+  },
+  "contact": {
+    "phone": "(845) 380-3766",
+    "servicePhone": "800369425"
+  },
+  "birthday": "1981-06-16T16:55:37.591Z",
+  "ip": "81.96.8.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Dodoj po co ozoisasin mede cobsiloj behlet mazleta cel kotdotjin enofer apmomar. Wujvehipa uku govba gilu ros esni jemhavew howfakaz lif se russed wofjo caaltu ja li dicele. Di wuce comuvade gewihi olo nel ezacohi mo hi uw mocos bekser. Azoiha akzan hagteva calenir zelsi budek denrad aku jepemdec une sowec wusdeg hudfamehe luisoef basipog lus hi.",
+    "bio": "Fapauru emehve mipuk solouti rucal wovu va himze okji ne pemu nipac tira hof bampo. Dup leefa ner winfu saz abtiuz ren cupogda sedpusho or masac rehjaivu. Lijgijjij enmenu repiza tunga indurdi zu ad wegemvaf peigez idadoval zes ege supzovke. Simipru facdoli leakwa mu uk ece domu eka woone rimapugu we kirsowi mecloura. Baumu guwhomas nafmoclah lez daj niwhid pelgiru lo te neaca onzeri nuzi benor. Jizwevso luzti pu zif cacuvnuj ijedar bul bukco hinboba libwevdi ir rijwesih al dubdulolo dukvu juves ogib kitsubho."
+  },
+  "apiKey": "246c3a2448c167a3d99bc4015d12f32bf44bad82bdefa8a3eb43271b12010505",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
