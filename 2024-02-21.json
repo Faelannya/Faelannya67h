@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Casey",
+  "age": 23,
+  "address": {
+    "street": "Huugo Boulevard",
+    "city": "Hudejo",
+    "state": "NH",
+    "zip": "98081"
+  },
+  "contact": {
+    "phone": "(650) 916-2261",
+    "servicePhone": "800968389"
+  },
+  "birthday": "2000-11-19T00:11:49.209Z",
+  "ip": "56.131.155.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Bivjicuv idocizak geazuta zahtec ha dagcod jekun mulli fucavu iwvi mosneze li otkad suwluh acdah kero aro. Jo mekcop di ahciv bagu dig fivolhon esod zuz iju melbe ukicaji va ore cossu iw dovcu ku. Ratanubu wa sug sow jibavuf lelvu noghoor neaz ahu fenovne delova tubassar wewume sir cenofha siljovuj izopevlec.",
+    "bio": "Pizramkun to pa cemuhu ki usgimi nejpuzbuf sov kad ze olerak eradazzar mow zam wasa coetizav atjizab kozafa. Riuju zaezfoj vutvec let wamnupam fegkojmih pimwumpiw kowruh ovebo zurofhu cajtas lozecal veplisapu veduvugo humid. So ra je pakbovzal jopcu decpuknig li lesubuz kowa cobwepso uteod kinpat bihzed kigku fut."
+  },
+  "apiKey": "b2ce1672f25f95f95c721e226a40e8f8a34159dc5775251aa7de53c2e2439e6c",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
