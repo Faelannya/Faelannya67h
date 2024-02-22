@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Bass",
+  "age": 38,
+  "address": {
+    "street": "Kizu Boulevard",
+    "city": "Acmazgak",
+    "state": "RI",
+    "zip": "27372"
+  },
+  "contact": {
+    "phone": "(217) 356-8807",
+    "servicePhone": "800256967"
+  },
+  "birthday": "1993-06-26T15:09:28.874Z",
+  "ip": "3.118.85.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Ej me foafijuv luhucbew isowka vasco isuzi zogri di lidka badgi facoen retamedut. Iperur immijil locamroh nulfudbef argic todgef sikkijiw ana jibe adodeve woduti gofmuphog acila ju. Bebo votochi ube tejhosij upadene budik vewubis jazdah atuevivuc ce sigmaz woko cinnewur dul jetpuk oha ordarni ere.",
+    "bio": "Rigcuv im ra zifri ceful adiwejvo mom zun wifip ojuuboom arowib zal gicucipi ciobgaj okoli towgelu bifitoded. Dutfobu cen epica kosabi jaf advu rotlok iclamu ro lefifeg nudwifino nagolah. Kazuzju agezo rabtin ro si no kobon leseprup penpis gu soziho vaposegu."
+  },
+  "apiKey": "00b5d426b3151f9289bffe417acdd672e93ab2a77f56e56098740747402c8f0a",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
