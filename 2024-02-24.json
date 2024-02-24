@@ -1,0 +1,26 @@
+{
+  "name": "Katie Blake",
+  "age": 24,
+  "address": {
+    "street": "Uzdac Avenue",
+    "city": "Nufewu",
+    "state": "MN",
+    "zip": "26058"
+  },
+  "contact": {
+    "phone": "(838) 502-4095",
+    "servicePhone": "800787864"
+  },
+  "birthday": "1963-06-16T02:15:05.720Z",
+  "ip": "205.36.141.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Ral puata zaura havta etinebji ilevetet lot apmi vokimo wecgoce lasemi talpu cato vu. Jodporpu gek jaide hag bavzub do nugkam buaw sohuwitew za fi gi. Ceraf ofefinip simdevmup amiil vil juwaiva ebaraguf tauzo fivi ena zowogbur buz zo hi ot. Bozel rivovug mosmalosi satur ime huheb vo ve me no ke nuvbab. Ofuruwe wohaced vohlu zokpeg uzza gewil juthas ogopaco mituek juvulmas ejkiboh ibowisav gapeven pof foaci biika.",
+    "bio": "Ancuwi cah rozanetos hem ebujooj amuana soor magvadmaw ve vec tudib ewawes faawomo ze kor bemuhli sutvope puznezo. Hadvod kiwitvum vav wuibeun pine su afu ceb jofo nugkarhe piukura imi lino peg mikoflu gid. Obenep mu mu litafmef dabem de dag likfuuj evrup ra fupowu cuom gehuvur. Ga fuzeco itaom nem ketuzir nizek nilil ewrif de tobefu ba nopku nen. Zaempi muges juzuv bo mozun ezofuf jofzaf gusvuek fil huor hi utiwuj zojido zoguzur voci razli."
+  },
+  "apiKey": "5248b11f56d5d228b708e00a2e12afc15823ba6186959c8524e821c9afccbbac",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
