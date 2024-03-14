@@ -1,0 +1,26 @@
+{
+  "name": "Marc Meyer",
+  "age": 48,
+  "address": {
+    "street": "Waina Grove",
+    "city": "Hesvunur",
+    "state": "RI",
+    "zip": "28006"
+  },
+  "contact": {
+    "phone": "(758) 600-2246",
+    "servicePhone": "800649767"
+  },
+  "birthday": "1980-07-30T12:07:44.236Z",
+  "ip": "33.247.116.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Eze rur nuumhuw cuvec peha sepik zuvo rumuzasuw ehnotsit far gif bab fada winuba jedcin. Fakbej uco lois borruih dudu me curate cidivove juzojafo mo dicifew mum hacgal lef ziwsut ho wuh. Keguje wuzo hoses na vimca zisno hicfeda giekga ehhegzod umi zun ji iwloscu gekvu.",
+    "bio": "Zagta gulo pa ufo babik kuzojpag pa uhuzevpe ahu tulhal gigut ode. Zohno neho fe roc upues cijhe hibufu cuipuhem deaw gajgejit gasarhot awtin ulaun juwu. Ectipi okohi rejfawtu ugo usfija virunowak mak ini raf joplug ow voer. Recicader co tagivsa gozkojiv pirgerow luwena lehmum magatbug wenosuvo mom riufa gektonume cabmizdu remwi pepufol ridpan. Kakeni begocem zimipwir apwegeg fawo raz hojuzom luibi un su ektiz livop. Kafemwil tob ihainmoc nujkokgu kizof otu depdi holoup re ufipi jocgu mub feboz madval loczij konumo. Al cic wuov dadub ittok hotag en wowuhor gazepbeh ledmomgam padpi zode hovuv vaupe webba."
+  },
+  "apiKey": "87ac627e4c46b6736ee8eeced81b92c0e1f52fd9dd32e2cc668b67fadd40c822",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
