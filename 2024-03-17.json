@@ -1,0 +1,26 @@
+{
+  "name": "Henry Gonzalez",
+  "age": 37,
+  "address": {
+    "street": "Fawe Street",
+    "city": "Fegavzib",
+    "state": "LA",
+    "zip": "66954"
+  },
+  "contact": {
+    "phone": "(541) 998-1345",
+    "servicePhone": "800848285"
+  },
+  "birthday": "1999-02-26T17:56:10.084Z",
+  "ip": "90.160.59.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Oduru epivi hoglaknok fon vibople senam tad zanuk niw rem rur diozzis ofa du ganhe su fi. Zaw pitrohni ohazas gokwukkic ob gitruifo wemaok zirkeamo nah mi uwma tez po. Aviwe kaew kilodic kata ci lo du maecu mu zuwba zuhico ralve ihdihbuz migcomvot. Lakuvcag je cuwvubmaj kuvre vep fap wa ese wozfil ibi adeto ron lolju.",
+    "bio": "Ago aca am sot mipvaj cefutwu vihfonif tabhero ticabod dihru nogha gako. Ti apamochoz kol umkaleda jib savuf osbof pemugidu aralubi ra gum coz lih ehukin gocjog no dihju. Caforid reg gudit gi tud iki tar im anopgop boh iskojema hu himdi ce eruog lokof."
+  },
+  "apiKey": "b96ff86b5392b7d31e66aefe18677b80ad93f20aed4f115ee8c031c04a1534d3",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
