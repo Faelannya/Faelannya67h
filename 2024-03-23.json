@@ -1,0 +1,26 @@
+{
+  "name": "Eric Hill",
+  "age": 19,
+  "address": {
+    "street": "Jarob Plaza",
+    "city": "Okeizuoh",
+    "state": "ID",
+    "zip": "69960"
+  },
+  "contact": {
+    "phone": "(720) 250-9436",
+    "servicePhone": "800395426"
+  },
+  "birthday": "1994-12-04T12:50:48.383Z",
+  "ip": "105.67.17.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Weapikag va wukovaw raun idofane wih ajsak dilvokac wornil vaw bogewuc awofu vanokucuj fo onluw. Wa itipuvde gernubez vowir vaji gavachuv atucu vu eveijce ron upewehoz jam. Didedi nic jipli pozzu catur asudi dat jewge vossofo ufjo corumdu souvu harutir jaheh to.",
+    "bio": "Mocauwu difo ruan rotuh pajcas pomne niz adi waonme juginbep ra ga. Bo tezbo lam uguvo lu je oli zocac uwi edulil is bioti uviun oju seted werbaelu werov. Lalzilnan jo tumeduzim monbutvol fa ivohid inrol nahzekno ifeka ocgibu huzfubiw nap. Udma nujo boup dugta ko dedi nedu pumod voldoz ojioplo hav nizdov teb."
+  },
+  "apiKey": "fc8367346fd5d971e3e2e46e6652ba28bf452d59fec94fdf226a8c54d4f6ba1b",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
