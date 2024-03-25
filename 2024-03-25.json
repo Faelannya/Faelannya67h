@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Bridges",
+  "age": 57,
+  "address": {
+    "street": "Pekde Pass",
+    "city": "Kimudwa",
+    "state": "MS",
+    "zip": "53446"
+  },
+  "contact": {
+    "phone": "(729) 327-4421",
+    "servicePhone": "800786983"
+  },
+  "birthday": "2003-02-25T01:55:44.060Z",
+  "ip": "65.60.146.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Omuda jeteka pasci sehuvfu dovsis rargugnel arano etogi lajomu oj eciuvsih sewesi kivmahip fih mi icnugaw. Dujkefkup ruvcoh led ja liar ruac celtigku azeposduf wub aso mijopfi nive kobihfuc tene. Buz jilnug sutza war ahuvo jatavgu annoh sufvukec ujdo fup nuzruv absa akhogjo ekcizfo igifat fogu ugailu pecame. Sercu madik itu wiwkuub vucpev ko cutmij pos fe ze ezoij ese cuptik po tiobe vajtuw. Es ekuumihab ruenu mube uze haj ronir wowkih nuvpap eciosu vutduwwet zujwo izaku irecoltuw ru weomsu pun. Gatsu kiunika zuv ezbiflo bisfon ta uwi ju efehod esagil luweov zodco mug wuji ipsinpa fusvujlag nuvop. Dadwaeno puburvi pev ovusomhil zepfunej nauwo juf sofejmom ci eku ca uca falinopo.",
+    "bio": "Ohocine lapgumub nakizze riris cafkum ataar jom li wil pawedtup okanipig vuifi cogan ruevbu ta eleos ekjo jo. Uwpopih bil merme ufowi besa ob devwuzun efvoteh serlis pe bu kam. Ze ukviz nopoer efe ate dirwupok bo rir ebotolu kuzzuz widvube diwku le. Nis unwaduk suw ku tem zitkur zosoug rikni newbu lodzukcu umo eg lovufa fan ejjuzoj jad. Picpa litfoj tufavgi lifavlu geic pudpef jemvak mo vigagi ajikukan ilme ehted ephitnim."
+  },
+  "apiKey": "09154bc23d1d3c720e532956265f5c4a1361dd932bf37c8d19962a85bfebf71f",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
