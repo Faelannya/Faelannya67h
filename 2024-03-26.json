@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Richards",
+  "age": 62,
+  "address": {
+    "street": "Buupe Ridge",
+    "city": "Lopufcor",
+    "state": "LA",
+    "zip": "16201"
+  },
+  "contact": {
+    "phone": "(720) 645-7531",
+    "servicePhone": "800746314"
+  },
+  "birthday": "1977-06-18T20:49:06.222Z",
+  "ip": "246.242.11.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Tajkiv roeccip seublon riha cumpiw ja va su tesa ze kuw igtazruj. Gos copna rarton boknar ogiuj loeh fa he zorimpus lomjofe abmeba so izealemu amjanow jobpivep. Ulakaj kuelisem ecikeaw ec ahibfa ta zi zuv puvladdif otozu niwiz waw posatuk nosiz oje ow bimohfu.",
+    "bio": "Zorojpoz feen ej cismih rivuzlam vocfiwo timogi ve hawro pecare ad zo imi. Ful be ciig seuvuwi cugo gocfeca pan tedmizel murugrid ci boku izalun ket we. Meoce ephat jij omafuesu zu wa fewpan ajmisza beiv heha tes gedhod mejserpa sal. Ka ohve tahbu emukaz fahni ilsewo juk utda parpuh pehdo wabpawcu tidusmet penutgu."
+  },
+  "apiKey": "9e226cf1bc6d521af2d7b951d6cf421e3bc2ac20f1bc53a0c68581293b317ae0",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
