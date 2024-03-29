@@ -1,0 +1,26 @@
+{
+  "name": "Ina Leonard",
+  "age": 50,
+  "address": {
+    "street": "Akujug Parkway",
+    "city": "Kulgawi",
+    "state": "MD",
+    "zip": "25727"
+  },
+  "contact": {
+    "phone": "(768) 430-9691",
+    "servicePhone": "800876795"
+  },
+  "birthday": "1985-06-26T19:58:35.466Z",
+  "ip": "7.125.151.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo azoin eta giluc ma taf zuf wikotwuf ob ki jojemuk zutjigi bepomvo vanaze omla. Mahgagwok at pe jomuca es dilhar kuwiwa howuco eledo bitu dan pipsef bas papicujo epo. Jukaibi osewelzik hav weg bemunre sibe remagu papmad sirbo mek uhlo bor nardawzi va. Nicu vet cov la babbizal cezfinnih feehopu zuveliut at bib kosnud role nevzen har wuf odjuh.",
+    "bio": "Dodhijo ode was gin tuadioki acvuz ac we cascujzi si te za boihibe. Binpisja vin divecdep lani diuk vohidcod tirmume ec doflulzoz gu hug ka fuvalmu. Cohgihzut lumpew kogjafuh ta heropevo kivalahe ebadej lomgana uble keohorob ki li."
+  },
+  "apiKey": "095854c06f27fc2d738efa237976b00f6914ee8f955cc3c9f09ccbd232ddce19",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
